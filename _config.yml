@@ -28,8 +28,7 @@ twitter_username: scr4pp3rs
 github_username:  bytescrappers
 
 # Build settings
-theme: minima
-remote_theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
