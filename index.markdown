@@ -16,6 +16,7 @@ layout: default
 </div>
 <div style="float:right; width:20%">
     <h1>Recent</h1>
+    <a href="/htb/scriptkiddie">Scriptkiddie</a>
     <a href="/ctf/ritsec/interception">Interception</a>
 </div>
 <div style="float: down; width:10%;padding-top: 40%; padding-left: 45%">
